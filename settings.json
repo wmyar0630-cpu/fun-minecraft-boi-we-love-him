@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.5builds.net",
+    "ip": "stop",
     "port": 10049,
     "version": "",
     "try-creative": false
